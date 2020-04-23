@@ -16,6 +16,7 @@ _global_script_class_icons={
 [application]
 
 config/name="Gd Grid Map Proc Gen"
+run/main_scene="res://ProcGenScenes/SimplexNoise.tscn"
 config/icon="res://icon.png"
 
 [input]
